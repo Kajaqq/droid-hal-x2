@@ -1,5 +1,8 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 
+%define device hammerhead
+%define vendor lge
+
 %define vendor_pretty LeEco
 %define device_pretty Le Max 2
 
