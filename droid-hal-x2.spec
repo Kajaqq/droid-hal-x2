@@ -1,11 +1,12 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 
-%define device hammerhead
-%define vendor lge
+%define device x2
+%define vendor leeco
 
 %define vendor_pretty LeEco
 %define device_pretty Le Max 2
 
+%define droid_target_armv7hl 1
 %define installable_zip 1
 
 %include rpm/dhd/droid-hal-device.inc
